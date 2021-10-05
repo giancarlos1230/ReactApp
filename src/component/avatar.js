@@ -1,14 +1,13 @@
 //const MostrarAvatar=({imagen}, ancho, altura) =>{
 
 import imag from './imagen/homero.jpg'
-    export const MostrarAvatar = ({imagen}, ancho, altura) => {
+    export const MostrarAvatar = ({imagen}, alturImagen, anchuraImagen ) => {
     return (
         <div>
             <img src={imag} alt="Imagen" style={{
                 borderRadius:imagen,
-                borderWidth:ancho,
-                height: altura,
-               
+               // borderWidth:anchuraImagen,
+               // height: alturImagen,
 
             }}/>
         </div>

@@ -12,10 +12,11 @@ function App() {
         <MostrarAlert altura="50px" ancho="500px" colorfondo="blue" colorText="white" texto="Default Alert"> </MostrarAlert>
         <MostrarAlert altura="50px" ancho="500px" colorfondo="black" colorText="green" texto="Sucess Alert"> </MostrarAlert>
         <MostrarAvatar
-          imagen="100%"
+          imagen="90%"
 
-          altura="128px"
-          ancho="128px">
+         // alturImagen="100px"
+         // anchuraImagen="100px"
+          >
         </MostrarAvatar>
 
       </header>
