@@ -1,6 +1,3 @@
-//import logo from './logo.svg';
-//import './App.css';
-
 import { MostrarAlert } from "./component/alert";
 import { MostrarAvatar }from './component/avatar'
 

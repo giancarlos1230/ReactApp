@@ -1,5 +1,3 @@
-//const MostrarAvatar=({imagen}, ancho, altura) =>{
-
 import imag from './imagen/homero.jpg'
     export const MostrarAvatar = ({imagen}, alturImagen, anchuraImagen ) => {
     return (
